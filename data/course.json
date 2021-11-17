@@ -1,0 +1,47 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geobiology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "8168d826-1459-74d4-4a87-01601977df59"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Seminar in Geology and Geochemistry: Organic Geochemistry",
+  "course_description": "12.491 is a seminar focusing on problems of current interest in geology and geochemistry. For Fall 2005, the topic is organic geochemistry. Lectures and readings cover recent research in the development and properties of organic matter.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.491",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
